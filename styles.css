@@ -1,0 +1,12 @@
+.sidebar {
+	background: lightblue;
+}
+
+.content {
+	background: lightgreen;
+	/*overflow: hidden;*/
+}
+
+.wrapper {
+	background: red;
+}
